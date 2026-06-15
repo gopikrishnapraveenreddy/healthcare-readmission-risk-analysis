@@ -87,7 +87,9 @@ Provide an executive-level overview of healthcare operations, patient utilizatio
 * Readmissions contributed significantly to overall healthcare cost exposure
 * High-utilization patients required disproportionate healthcare resources
 
-![Dashboard 1](Healthcare%20Readmission%20%26%20Patient%20Utilization%20Analysis.png)
+## Dashboard 1
+
+![Dashboard 1](dashboard_1_readmission_analysis.png)
 
 ---
 
@@ -105,7 +107,9 @@ Identify patient segments and healthcare factors associated with elevated readmi
 * Diagnosis category significantly influenced readmission outcomes
 * Discharge disposition was strongly associated with future readmission likelihood
 
-![Dashboard 2](Healthcare%20Readmission%20Analysis.png)
+## Dashboard 2
+
+![Dashboard 2](dashboard_2_resource_utilization_cost_analysis.png)
 
 ---
 
@@ -123,8 +127,9 @@ Analyze healthcare resource consumption, patient complexity, and financial impac
 * Certain diagnosis groups required substantially longer hospital stays
 * Readmissions generated considerable financial burden across the healthcare system
 
-![Dashboard 3](Healthcare%20Resource%20Utilization%20%26%20Cost%20Exposure%20Analysis.png)
+## Dashboard 3
 
+![Dashboard 3](dashboard_3_patient_utilization_analysis.png)
 ---
 
 ## Analytical Workflow
