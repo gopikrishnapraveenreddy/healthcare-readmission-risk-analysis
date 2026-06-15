@@ -89,7 +89,6 @@ Provide an executive-level overview of healthcare operations, patient utilizatio
 
 ## Dashboard 1
 
-## Dashboard 1
 ![Dashboard 1](dashboard_1_patient_utilization_analysis.png)
 
 ---
@@ -110,7 +109,6 @@ Identify patient segments and healthcare factors associated with elevated readmi
 
 ## Dashboard 2
 
-## Dashboard 2
 ![Dashboard 2](dashboard_2_readmission_analysis.png)
 
 ---
@@ -166,9 +164,9 @@ Analyze healthcare resource consumption, patient complexity, and financial impac
 ```text
 healthcare-readmission-risk-analysis
 │
-├── Healthcare_Readmission_And_Utilization_Analysis.twb
-├── healthcare_readmission_utilization_analysis.ipynb
-├── healthcare_readmission_utilization_analysis.py
+├── healthcare_readmission_risk_analysis.twb
+├── healthcare_readmission_analysis.ipynb
+├── healthcare_readmission_analysis.py
 │
 ├── create_tables.sql
 ├── healthcare_business_queries.sql
@@ -180,12 +178,19 @@ healthcare-readmission-risk-analysis
 ├── insights.md
 ├── summary_metrics.json
 │
-├── Healthcare Readmission & Patient Utilization Analysis.png
-├── Healthcare Readmission Analysis.png
-├── Healthcare Resource Utilization & Cost Exposure Analysis.png
+├── dashboard_1_patient_utilization_analysis.png
+├── dashboard_2_readmission_analysis.png
+├── dashboard_3_resource_utilization_cost_analysis.png
 │
-└── dashboard_requirements.md
+└── project_requirements.md
 ```
+
+---
+## Executive Summary
+
+This project analyzes over 100,000 healthcare encounters to identify readmission trends, utilization patterns, patient complexity levels, and financial exposure associated with hospital readmissions.
+
+The analysis revealed that elderly patients, emergency admissions, and chronic disease diagnosis groups contribute disproportionately to readmission risk and healthcare costs. Through SQL analytics, Python-based data preparation, and Tableau dashboard development, the project delivers actionable insights to support operational efficiency, resource optimization, and healthcare decision-making.
 
 ---
 
