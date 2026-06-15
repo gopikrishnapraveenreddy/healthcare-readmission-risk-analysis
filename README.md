@@ -89,7 +89,8 @@ Provide an executive-level overview of healthcare operations, patient utilizatio
 
 ## Dashboard 1
 
-![Dashboard 1](dashboard_1_readmission_analysis.png)
+## Dashboard 1
+![Dashboard 1](dashboard_1_patient_utilization_analysis.png)
 
 ---
 
@@ -109,7 +110,8 @@ Identify patient segments and healthcare factors associated with elevated readmi
 
 ## Dashboard 2
 
-![Dashboard 2](dashboard_2_resource_utilization_cost_analysis.png)
+## Dashboard 2
+![Dashboard 2](dashboard_2_readmission_analysis.png)
 
 ---
 
@@ -129,7 +131,8 @@ Analyze healthcare resource consumption, patient complexity, and financial impac
 
 ## Dashboard 3
 
-![Dashboard 3](dashboard_3_patient_utilization_analysis.png)
+![Dashboard 3](dashboard_3_resource_utilization_cost_analysis.png)
+
 ---
 
 ## Analytical Workflow
