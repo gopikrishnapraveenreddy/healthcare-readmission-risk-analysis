@@ -1,0 +1,13 @@
+{
+  "total_encounters": 101766,
+  "unique_patients": 71518,
+  "readmitted_any": 46902,
+  "readmission_rate_any": 46.09,
+  "readmitted_30_days": 11357,
+  "readmission_rate_30_days": 11.16,
+  "avg_length_of_stay": 4.4,
+  "high_utilization_patients": 1634,
+  "high_utilization_rate": 1.61,
+  "estimated_total_encounter_cost": 1668003890.0,
+  "estimated_30_day_readmission_cost_exposure": 170355000.0
+}
